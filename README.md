@@ -4,7 +4,7 @@
 
 <p><animated-image data-catalyst="" style="float: right; width: 100px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/sonyfrid/sonyfrid/blob/main/assests/pngwing.com.png" data-target="animated-image.originalLink"><img align="right" alt="Coding" src="https://github.com/sonyfrid/sonyfrid/blob/main/assests/pngwing.com.png" data-canonical-</a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-      
+            </p>
 🧐Currently studying React Native, TypeScript
 
 🏀Ask me about psychology, basketball, and code
