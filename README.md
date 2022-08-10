@@ -1,6 +1,6 @@
 ![Header](https://github.com/sonyfrid/sonyfrid/blob/main/assests/name.png)
 
-## I am a fullstack developer
+## I am a Full-stack Developer
 
 🧐Currently studying React Native, TypeScript
 
@@ -12,5 +12,6 @@
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-<JavaScript>-<COLOR>)
+?style=for-the-badge&logo=appveyor
 
 Follow me
