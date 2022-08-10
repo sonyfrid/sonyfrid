@@ -11,7 +11,7 @@
 🦇Fun fact: I like bats
 
 ### Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=flutter)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 
 
 Follow me
