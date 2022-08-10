@@ -11,7 +11,8 @@
 🦇Fun fact: I like bats
 
 ### Languages and Tools
-![JavaScript](https://img.shields.io/badge/-<JavaScript>-<COLOR>)
-?style=for-the-badge&logo=appveyor
+![JavaScript](https://img.shields.io/badge/-<JavaScript>-<COLOR>
+  ?style=for-the-badge&logo=appveyor)
+
 
 Follow me
