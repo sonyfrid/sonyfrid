@@ -4,11 +4,6 @@
 
 <p><animated-image data-catalyst="" style="float: right; width: 400px;"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1cf6b321dfe0668bf7f5ffe3b75e1ca4c00561407ecf061146a4e86f3e925981/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7347424d7a7965457a4b70795344373471762f67697068792e676966" data-target="animated-image.originalLink"><img align="right" alt="Coding" src="https://camo.githubusercontent.com/1cf6b321dfe0668bf7f5ffe3b75e1ca4c00561407ecf061146a4e86f3e925981/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7347424d7a7965457a4b70795344373471762f67697068792e676966" data-canonical-src="https://media0.giphy.com/media/sGBMzyeEzKpySD74qv/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/1cf6b321dfe0668bf7f5ffe3b75e1ca4c00561407ecf061146a4e86f3e925981/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7347424d7a7965457a4b70795344373471762f67697068792e676966" target="_blank">
-          <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="Coding" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/1cf6b321dfe0668bf7f5ffe3b75e1ca4c00561407ecf061146a4e86f3e925981/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7347424d7a7965457a4b70795344373471762f67697068792e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="400" height="300"></canvas></span>
-        </a>
       
 🧐Currently studying React Native, TypeScript
 
