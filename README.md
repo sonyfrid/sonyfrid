@@ -2,7 +2,7 @@
 
 ## I am a Full-stack Developer
 
-<p><animated-image data-catalyst="" style="float: right; width: 30%;"><a target="_blank" rel="noopener noreferrer" data-target="animated-image.originalLink"><img align="right" alt="Coding" src="https://github.com/sonyfrid/sonyfrid/blob/main/assests/pngwing.com%20(1).png" style="width: 30%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p><animated-image data-catalyst="" style="float: right; width: 30%;"><a target="_blank" rel="noopener noreferrer" data-target="animated-image.originalLink"><img align="right" alt="Coding" src="https://github.com/sonyfrid/sonyfrid/blob/main/assests/pngwing.com%20(2).png" style="width: 30%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">  
             
 <p>🧐Currently studying React Native, TypeScript
