@@ -7,7 +7,7 @@
             
 <p>🧐Currently studying React Native, TypeScript
 
-🏀Ask me about psychology, basketball, and code
+🏀Ask me about psychology, basketball and code
 
 📲How to contact me sfridmo@ya.ru
 
