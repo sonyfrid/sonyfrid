@@ -10,7 +10,7 @@
 🏀Ask me about psychology, basketball and code
 
 📲How to contact me sfridmo@ya.ru 
-- telegram @fridmo_sony
+✈ Telegram @fridmo_sony
 
 
 
