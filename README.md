@@ -49,5 +49,5 @@
 
 
    
-<a href="t.me/fridmo_sony/" rel="nofollow"> <img src="https://www.flaticon.com/free-icon/call-me_5849073" alt="t.me/fridmo_sony/" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="t.me/fridmo_sony/" rel="nofollow"> <img src="https://github.com/sonyfrid/image/blob/main/call-me.png" alt="t.me/fridmo_sony/" width="40" height="40" style="max-width: 100%;"> </a>
 
