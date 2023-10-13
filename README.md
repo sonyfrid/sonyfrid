@@ -1,11 +1,11 @@
 ![Header](https://github.com/sonyfrid/sonyfrid/blob/main/assests/name.png)
 
-<h1 align="center" dir="auto"><a id="user-content" class="anchor" aria-hidden="true"> Hi! I am a QA Semi-automation</h1>
+<h1 align="center" dir="auto"><a id="user-content" class="anchor" aria-hidden="true"> Hi! I am a QA Engineer</h1>
 
 <p><animated-image data-catalyst="" style="float: right; width: 30%;"><a target="_blank" rel="noopener noreferrer" data-target="animated-image.originalLink"><img align="right" alt="Coding" src="https://github.com/sonyfrid/sonyfrid/blob/main/assests/pngwing.com%20(2).png" style="width: 30%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">  
             
-<p>🧐Currently studying React Native, TypeScript
+<p>🧐Constantly learning new testing technologies
 
 🏀Ask me about psychology, basketball and code
 
