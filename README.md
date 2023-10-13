@@ -28,11 +28,11 @@
             
 ### Languages and Tools
 <a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="max-width: 100%;"></a> 
-<a href="https://jestjs.io" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png" alt="jest" width="40" height="40"  style="max-width: 100%;"></a>
+<a href="https://jestjs.io" rel="nofollow"> <img src="https://github.com/sonyfrid/image/blob/main/file_type_jest_icon_130514.png?raw=true" alt="jest" width="40" height="40"  style="max-width: 100%;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
  <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a> 
-<a href="https://www.postgresql.org/"> <img src="https://cdn.icon-icons.com/icons2/3854/PNG/512/console_sql_icon_237637.png"  alt="SQL" width="40" height="40" style="max-width: 100%;">
+<a href="https://www.postgresql.org/"> <img src="https://github.com/sonyfrid/image/blob/main/console_sql_icon_237637.png?raw=true"  alt="SQL" width="40" height="40" style="max-width: 100%;">
 <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"></a>
 
 <a href="https://ru.wikipedia.org/wiki/API"> <img src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" alt="API" width="40" height="40" style="max-width: 100%;"> </a>
@@ -49,5 +49,6 @@
 
 
    
+### Connect me
 <a href="t.me/fridmo_sony/" rel="nofollow"> <img src="https://github.com/sonyfrid/image/blob/main/call-me.png?raw=true" alt="t.me/fridmo_sony/" width="40" height="40" style="max-width: 100%;"> </a>
 
