@@ -11,11 +11,6 @@
 
 📲How to contact me sfridmo@ya.ru
 
-      
-      
-      
-✈ Telegram @fridmo_sony
-
 
 
 🦇Fun fact: I like bats
