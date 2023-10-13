@@ -48,7 +48,7 @@
 <!-- <p align="left" dir="auto"> -->
 
 
-   [Contact me](https://https://t.me/fridmo_sony/)
+   
 
-<!--  <a href="https://https://t.me/fridmo_sony/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> -->
+### <a href="t.me/fridmo_sony/" rel="nofollow"> <img src="https://www.flaticon.com/free-icon/call-me_5849073" alt="t.me/fridmo_sony/" width="40" height="40" style="max-width: 100%;"> </a>
 
