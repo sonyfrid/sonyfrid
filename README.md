@@ -36,8 +36,7 @@
 <h2 align="center" dir="auto"><a id="user-content" class="anchor" aria-hidden="true"> My QA portfolio👉 <img src="https://github.com/sonyfrid/image/blob/main/bug.png?raw=true" alt="redux" width="40" height="40" style="max-width: 100%;"> </h2>
       
 <h2 align="center" dir="auto"><a id="user-content" class="anchor" aria-hidden="true"> My Developer pet projects on JavaScript:
-
-      
+<p></p>     
 <p><a href="https://github.com/sonyfrid/CustomSocks"><img src="https://github.com/sonyfrid/image/blob/main/socks.png?raw=true" alt="redux" width="40" height="40" style="max-width: 100%;"></a> AND <a href="https://github.com/sonyfrid/MUSIC_STAGE"><img src="https://github.com/sonyfrid/image/blob/main/saxophone.png?raw=true" alt="redux" width="40" height="40" style="max-width: 100%;"></a>
 <!--       [GitHub Pages](https://pages.github.com/) -->
 <h3 dir="auto"><a id="user-content" class="anchor" aria-hidden="true"> Contact me</h3>
