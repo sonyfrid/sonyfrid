@@ -39,6 +39,5 @@
 <p><a href="https://github.com/sonyfrid/CustomSocks"><img src="https://github.com/sonyfrid/image/blob/main/socks.png?raw=true" alt="redux" width="40" height="40" style="max-width: 100%;"></a> AND <a href="https://github.com/sonyfrid/MUSIC_STAGE"><img src="https://github.com/sonyfrid/image/blob/main/saxophone.png?raw=true" alt="redux" width="40" height="40" style="max-width: 100%;"></a>
 <!--       [GitHub Pages](https://pages.github.com/) -->
 
-<p><h3 align-item="center" dir="auto"><a id="user-content" class="anchor" aria-hidden="true"> Contact me</h3>
+<h3 align-item="center" dir="auto"><a id="user-content" class="anchor" aria-hidden="true"> Contact me</h3>
 <a href="https://t.me/fridmo_sony/" rel="nofollow"> <img src="https://github.com/sonyfrid/image/blob/main/call-me.png?raw=true" alt="t.me/fridmo_sony/" width="40" height="40" style="max-width: 100%;"> </a></p>
-</p>
