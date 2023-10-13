@@ -27,7 +27,7 @@
             
             
 ### Languages and Tools
-<img src="https://icons8.ru/icon/EPbEfEa7o8CB/postman-is-the-only-complete-api-development-environment" alt="typescript" width="40" height="40" style="max-width: 100%;">
+<img src="http://www.w3.org/2000/svg" alt="postman" width="40" height="40" style="max-width: 100%;">
 
 <p align="left" dir="auto"> <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
 
