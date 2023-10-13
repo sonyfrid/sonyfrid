@@ -39,6 +39,6 @@
 
 
 <!--       [GitHub Pages](https://pages.github.com/) -->
-<h3 dir="auto"><a id="user-content" class="anchor" aria-hidden="true"> Connect me</h3>
+<h3 dir="auto"><a id="user-content" class="anchor" aria-hidden="true"> Contact me</h3>
 <a href="https://t.me/fridmo_sony/" rel="nofollow"> <img src="https://github.com/sonyfrid/image/blob/main/call-me.png?raw=true" alt="t.me/fridmo_sony/" width="40" height="40" style="max-width: 100%;"> </a>
 
