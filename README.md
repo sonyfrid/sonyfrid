@@ -49,6 +49,6 @@
 
 
    
-### Connect me
+### [Connect me](t.me/fridmo_sony/)
 <a href="t.me/fridmo_sony/" rel="nofollow"> <img src="https://github.com/sonyfrid/image/blob/main/call-me.png?raw=true" alt="t.me/fridmo_sony/" width="40" height="40" style="max-width: 100%;"> </a>
 
