@@ -2,7 +2,7 @@
 
 <h1 align="center" dir="auto"><a id="user-content" class="anchor" aria-hidden="true">Hi! I am a QA Engineer   <img src="https://github.com/sonyfrid/image/blob/main/pngegg.png?raw=true" alt="css3" width="40" height="40" style="max-width: 100%;"></h1>
 
-<p><animated-image data-catalyst="" style="float: right; width: 30%;"><a target="_blank" rel="noopener noreferrer" data-target="animated-image.originalLink"><img align="right" alt="Coding" src="https://github.com/sonyfrid/sonyfrid/blob/main/assests/pngwing.com%20(2).png" style="width: 25%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">  
             
 <p>🧐Constantly learning new testing technologies
