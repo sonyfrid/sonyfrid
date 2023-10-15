@@ -36,4 +36,4 @@
 <!--       [GitHub Pages](https://pages.github.com/) -->
 
 <h3 align-item="center" dir="auto"><a id="user-content" class="anchor" aria-hidden="true"> Contact me</h3>
-<a href="https://t.me/fridmo_sony/" rel="nofollow"> <img src="https://github.com/sonyfrid/image/blob/main/call-me.png?raw=true" alt="t.me/fridmo_sony/" width="40" height="40" style="max-width: 100%;"> </a></p>
+<a href="https://t.me/fridmo_sony/"align-item="center  rel="nofollow"> <img align-item="center src="https://github.com/sonyfrid/image/blob/main/call-me.png?raw=true" alt="t.me/fridmo_sony/" width="40" height="40" style="max-width: 100%;"> </a></p>
