@@ -21,7 +21,7 @@
             
             
 ### Languages and Tools
-<a href="https://postman.com" rel="nofollow"> <img src="https://github.com/sonyfrid/image/blob/main/git_original_wordmark_logo_icon_146510.png" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="max-width: 100%;"></a> 
+<a href="https://postman.com" rel="nofollow"> <img src="https://github.com/sonyfrid/image/blob/main/postman_macos_bigsur_icon_189815.png" data-canonical-src="https://github.com/sonyfrid/image/blob/main/postman_macos_bigsur_icon_189815.png" alt="postman" width="40" height="40" style="max-width: 100%;"></a> 
 <a href="https://jestjs.io" rel="nofollow"> <img src="https://github.com/sonyfrid/image/blob/main/file_type_jest_icon_130514.png?raw=true" alt="jest" width="40" height="40"  style="max-width: 100%;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
  <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
