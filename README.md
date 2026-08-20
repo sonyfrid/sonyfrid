@@ -69,9 +69,10 @@
 
 ### 🧪 QA Артефакты
 
-[![QA Artifacts](https://img.shields.io/badge/QA_Артефакты-Тест_кейсы_и_баги-orange?style=for-the-badge)](https://github.com/sonyfrid/Examples-of-artifacts)
-[![TEST API](https://img.shields.io/badge/QA_Артефакты-Тест_кейсы_и_баги-orange?style=for-the-badge)]([https://github.com/sonyfrid/Examples-of-artifacts](https://github.com/sonyfrid/testAPI)) 
-Примеры тест-кейсов, чек-листов и баг-репортов.
+[![QA Artifacts](https://img.shields.io/badge/QA_Артефакты-Тест_кейсы_и_баги-orange?style=for-the-badge&logo=testinglibrary&logoColor=white)](https://github.com/sonyfrid/Examples-of-artifacts)
+[![Test API](https://img.shields.io/badge/Test_API-Postman_коллекции-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/sonyfrid/testAPI)
+
+Примеры тест-кейсов, чек-листов, баг-репортов и API-тестов.
 
 ---
 
