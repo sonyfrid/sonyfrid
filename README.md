@@ -91,18 +91,3 @@
   <a href="https://github.com/sonyfrid"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
----
-
-## 📈 Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonyfrid&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
----
-
-<div align="center">
-  <sub>🦇 Fun fact: I like bats</sub>
-  <br>
-  <sub>Built with ❤️ by Sony Fridmo</sub>
-</div>
