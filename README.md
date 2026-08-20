@@ -70,7 +70,7 @@
 ### 🧪 QA Артефакты
 
 [![QA Artifacts](https://img.shields.io/badge/QA_Артефакты-Тест_кейсы_и_баги-orange?style=for-the-badge)](https://github.com/sonyfrid/Examples-of-artifacts)
-
+[![TEST API](https://img.shields.io/badge/QA_Артефакты-Тест_кейсы_и_баги-orange?style=for-the-badge)]([https://github.com/sonyfrid/Examples-of-artifacts](https://github.com/sonyfrid/testAPI)) 
 Примеры тест-кейсов, чек-листов и баг-репортов.
 
 ---
