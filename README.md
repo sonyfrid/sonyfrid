@@ -55,7 +55,7 @@
 
 ### 🏦 Fintech QA Automation (Playwright + TypeScript)
 
-**Основной проект** — автоматизация тестирования банковского приложения Parabank.
+Автоматизация тестирования банковского приложения Parabank.
 
 [![Fintech QA](https://img.shields.io/badge/Fintech_QA_Automation-Посмотреть_проект-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/sonyfrid/fintech-qa-automation)
 
