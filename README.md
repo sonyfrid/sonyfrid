@@ -5,9 +5,9 @@
   <img src="https://github.com/sonyfrid/image/blob/main/pngegg.png?raw=true" alt="QA" width="40" height="40">
 </h1>
 
-<p align="center">
-  <b>Автоматизирую тестирование, чтобы баги не доходили до пользователей</b>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&color=FF00FF&center=true&vCenter=true&lines=Автоматизирую+тестирование;Чтобы+баги+не+доходили+до+пользователей">
+</div>
 
 ---
 
@@ -56,7 +56,7 @@
 
 Автоматический агрегатор IT-вакансий с умной фильтрацией.
 
-[![Job Aggregator](https://img.shields.io/badge/IT_Job_Aggregator-Посмотреть_проект-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sonyfrid/job-aggregator-showcase)
+[![Job Aggregator](https://img.shields.io/badge/IT_Job_Aggregator-Посмотреть_проект-FF00FF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sonyfrid/job-aggregator-showcase)
 
 - 🧠 30+ источников вакансий
 - 🧠 Умная фильтрация по стеку
