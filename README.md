@@ -52,7 +52,7 @@
 ---
 ## 📁 Мои проекты
 
-### 🤖 IT Job Aggregator Bot (Python + Playwright)
+## 🤖 IT Job Aggregator Bot (Python + Playwright)
 
 Автоматический агрегатор IT-вакансий с умной фильтрацией.
 
