@@ -50,8 +50,21 @@
 <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"></a>
 
 ---
-
 ## 📁 Мои проекты
+
+### 🤖 IT Job Aggregator Bot (Python + Playwright)
+
+Автоматический агрегатор IT-вакансий с умной фильтрацией.
+
+[![Job Aggregator](https://img.shields.io/badge/IT_Job_Aggregator-Посмотреть_проект-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sonyfrid/job-aggregator-showcase)
+
+- 🧠 30+ источников вакансий
+- 🧠 Умная фильтрация по стеку
+- 🧠 SQLite + защита от дублей
+- 🧠 50 только нужных вакансий в день
+- 🧠 Автотесты (pytest)
+
+---
 
 ### 🏦 Fintech QA Automation (Playwright + TypeScript)
 
@@ -81,8 +94,6 @@
 
 [![Custom Socks](https://img.shields.io/badge/Custom_Socks-JavaScript-blue?style=for-the-badge)](https://github.com/sonyfrid/CustomSocks)
 [![Music Stage](https://img.shields.io/badge/Music_Stage-JavaScript-purple?style=for-the-badge)](https://github.com/sonyfrid/MUSIC_STAGE)
-
----
 
 ## 📞 Контакты
 
