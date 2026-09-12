@@ -6,7 +6,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&color=FF00FF&center=true&vCenter=true&lines=Автоматизирую+тестирование;Чтобы+баги+не+доходили+до+пользователей">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&color=FF69B4&center=true&vCenter=true&lines=Автоматизирую+тестирование;чтобы+баги+не+доходили+до+пользователей">
 </div>
 
 ---
@@ -56,7 +56,7 @@
 
 Автоматический агрегатор IT-вакансий с умной фильтрацией.
 
-[![Job Aggregator](https://img.shields.io/badge/IT_Job_Aggregator-Посмотреть_проект-FF00FF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sonyfrid/job-aggregator-showcase)
+[![Job Aggregator](https://img.shields.io/badge/IT_Job_Aggregator-Посмотреть_проект-FF69B4?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sonyfrid/job-aggregator-showcase)
 
 - 🧠 30+ источников вакансий
 - 🧠 Умная фильтрация по стеку
