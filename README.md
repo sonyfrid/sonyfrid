@@ -52,8 +52,7 @@
 ---
 ## 📁 Мои проекты
 
-## 🤖 IT Job Aggregator Bot (Python + Playwright)
-
+## <img src="screenshots/botvacancy.png.png" width="30">  IT Job Aggregator Bot (Python + Playwright)
 Автоматический агрегатор IT-вакансий с умной фильтрацией.
 
 [![Job Aggregator](https://img.shields.io/badge/IT_Job_Aggregator-Посмотреть_проект-FF1FA0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sonyfrid/job-aggregator-showcase)
