@@ -51,7 +51,8 @@
 ---
 ## 📁 Мои проекты
 
-## <img src="https://github.com/sonyfrid/job-aggregator-showcase/raw/main/screenshots/botvacancy.png.png" width="30"> IT Job Aggregator Bot - Бот-фильтр для поиска вакансий. Найдет работу или соискателей за вас!
+## <img src="https://github.com/sonyfrid/job-aggregator-showcase/raw/main/screenshots/botvacancy.png.png" width="30"> IT Job Aggregator Bot.
+### Бот-фильтр для поиска вакансий. Найдет работу или соискателей за вас!
 
 [![Job Aggregator](https://img.shields.io/badge/IT_Job_Aggregator-Посмотреть_проект-FF1FA0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sonyfrid/job-aggregator-showcase)
 
