@@ -14,7 +14,7 @@
 ## 👨‍💻 Обо мне
 
 - 🧪 **QA Automation Engineer** с опытом написания E2E и API тестов
-- 🚀 Стек: **Playwright, TypeScript, JavaScript, Postman, Allure**
+- 🚀 Стек: **Playwright, Python, TypeScript, JavaScript, Postman, Allure**
 - 📊 Умею настраивать **CI/CD** для автоматического запуска тестов
 - 📝 Пишу **тест-кейсы, чек-листы, баг-репорты**
 - 🏀 В свободное время: психология, баскетбол и `code`
@@ -32,7 +32,9 @@
 <a href="https://ru.wikipedia.org/wiki/API"><img src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" alt="API" width="40" height="40"></a>
 
 ### Languages & Tools
-
+<a href="https://www.python.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python">
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"></a>
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"></a>
 <a href="https://nodejs.org"><img src="https://github.com/sonyfrid/image/blob/main/node-js.png?raw=true" alt="nodejs" width="40" height="40"></a>
