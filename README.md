@@ -1,68 +1,63 @@
 ![Header](https://github.com/sonyfrid/sonyfrid/blob/main/assests/name.png)
 
 <h1 align="center">
-  QA Automation Engineer 
+  Junior JavaScript Developer | QA Automation | Test Automation
   <img src="https://github.com/sonyfrid/image/blob/main/pngegg.png?raw=true" alt="QA" width="40" height="40">
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=FF1FA0&center=true&vCenter=true&lines=%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D1%8E+%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5;%D0%91%D0%B0%D0%B3%D0%B8+%D0%BD%D0%B5+%D0%B4%D0%BE%D0%B9%D0%B4%D1%83%D1%82+%D0%B4%D0%BE+%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=FF1FA0&center=true&vCenter=true&lines=%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D1%8E+%D0%BD%D0%B0+JavaScript;%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D1%8E+%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5;%D0%91%D0%B0%D0%B3%D0%B8+%D0%BD%D0%B5+%D0%B4%D0%BE%D0%B9%D0%B4%D1%83%D1%82+%D0%B4%D0%BE+%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F">
 </div>
 
 ---
 
 ## 👨‍💻 Обо мне
 
-- 🧪 **QA Automation Engineer** с опытом написания E2E и API тестов
-- 🚀 Стек: **Playwright, Python, TypeScript, JavaScript, Postman, Allure**
-- 📊 Умею настраивать **CI/CD** для автоматического запуска тестов
-- 📝 Пишу **тест-кейсы, чек-листы, баг-репорты**
-- 🏀 В свободное время: психология, баскетбол и `code`
+* 💻 **Junior JavaScript Developer** с QA background
+* 🧪 **QA Automation Engineer** с опытом написания E2E и API тестов
+* 🚀 Разрабатываю на **JavaScript / TypeScript / Node.js**
+* 🧩 Создаю pet-проекты, API и автоматизацию тестирования
+* 🎭 Использую **Playwright** для E2E и API-тестирования
+* 📊 Умею настраивать **CI/CD** для автоматического запуска тестов
+* 📝 Пишу **тест-кейсы, чек-листы, баг-репорты**
+* 🗄️ Работаю с **PostgreSQL, REST API, Git**
+* 🏀 В свободное время: психология, баскетбол и `code`
 
 ---
 
 ## 🛠️ Технический стек
 
-### Automation & Testing
+### 💻 Development
 
-<a href="https://playwright.dev/"><img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"></a>
-<a href="https://postman.com"><img src="https://github.com/sonyfrid/image/blob/main/postman_macos_bigsur_icon_189815.png" alt="postman" width="40" height="40"></a>
-<a href="https://jestjs.io"><img src="https://github.com/sonyfrid/image/blob/main/file_type_jest_icon_130514.png?raw=true" alt="jest" width="40" height="40"></a>
-<a href="https://allurereport.org/"><img src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4" alt="allure" width="40" height="40"></a>
-<a href="https://ru.wikipedia.org/wiki/API"><img src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" alt="API" width="40" height="40"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"></a> <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"></a> <a href="https://nodejs.org"><img src="https://github.com/sonyfrid/image/blob/main/node-js.png?raw=true" alt="nodejs" width="40" height="40"></a> <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"></a> <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"></a> <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"></a> <a href="https://git-scm.com/"><img src="https://github.com/sonyfrid/image/blob/main/git_original_wordmark_logo_icon_146510.png" alt="git" width="40" height="40"></a> <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"></a>
 
-### Languages & Tools
+### 🧪 Automation & Testing
+
+<a href="https://playwright.dev/"><img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"></a> <a href="https://postman.com"><img src="https://github.com/sonyfrid/image/blob/main/postman_macos_bigsur_icon_189815.png" alt="postman" width="40" height="40"></a> <a href="https://jestjs.io"><img src="https://github.com/sonyfrid/image/blob/main/file_type_jest_icon_130514.png?raw=true" alt="jest" width="40" height="40"></a> <a href="https://allurereport.org/"><img src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4" alt="allure" width="40" height="40"></a> <a href="https://ru.wikipedia.org/wiki/API"><img src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" alt="API" width="40" height="40"></a>
+
+### 🐍 Other Tools
+
 <a href="https://www.python.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"></a>
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"></a>
-<a href="https://nodejs.org"><img src="https://github.com/sonyfrid/image/blob/main/node-js.png?raw=true" alt="nodejs" width="40" height="40"></a>
-<a href="https://git-scm.com/"><img src="https://github.com/sonyfrid/image/blob/main/git_original_wordmark_logo_icon_146510.png" alt="git" width="40" height="40"></a>
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"></a>
 <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"></a>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"></a>
-
-### Дополнительно (как разработчик)
-
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"></a>
-<a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"></a>
-<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"></a>
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"></a>
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"></a>
 
 ---
+
 ## 📁 Мои проекты
 
 ## <img src="https://github.com/sonyfrid/job-aggregator-showcase/raw/main/screenshots/botvacancy.png.png" width="30"> IT Job Aggregator Bot.
+
 ### Бот-фильтр для поиска вакансий. Найдет работу или соискателей за вас!
 
-[![Job Aggregator](https://img.shields.io/badge/IT_Job_Aggregator-Посмотреть_проект-FF1FA0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sonyfrid/job-aggregator-showcase)
+[![Job Aggregator](https://img.shields.io/badge/IT_Job_Aggregator-Посмотреть_проект-FF1FA0?style=for-the-badge\&logo=python\&logoColor=white)](https://github.com/sonyfrid/job-aggregator-showcase)
 
-- 🧠 30+ источников вакансий
-- 🧠 Умная фильтрация по стеку
-- 🧠 SQLite + защита от дублей
-- 🧠 50 только нужных вакансий в день
-- 🧠 Автотесты (pytest)
+* 🧠 30+ источников вакансий
+* 🧠 Умная фильтрация по стеку
+* 🧠 SQLite + защита от дублей
+* 🧪 Автотесты (pytest)
 
 ---
 
@@ -70,30 +65,32 @@
 
 Автоматизация тестирования банковского приложения Parabank.
 
-[![Fintech QA](https://img.shields.io/badge/Fintech_QA_Automation-Посмотреть_проект-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/sonyfrid/fintech-qa-automation)
+[![Fintech QA](https://img.shields.io/badge/Fintech_QA_Automation-Посмотреть_проект-45ba4b?style=for-the-badge\&logo=playwright\&logoColor=white)](https://github.com/sonyfrid/fintech-qa-automation)
 
-- ✅ E2E тесты (UI)
-- ✅ API тесты
-- ✅ Негативные сценарии
-- ✅ CI/CD pipeline
-- ✅ Отчёты с видео и скриншотами
+* ✅ E2E тесты (UI)
+* ✅ API тесты
+* ✅ Негативные сценарии
+* ✅ CI/CD pipeline
+* ✅ Отчёты с видео и скриншотами
 
 ---
 
 ### 🧪 QA Артефакты
 
-[![QA Artifacts](https://img.shields.io/badge/QA_Артефакты-Тест_кейсы_и_баги-orange?style=for-the-badge&logo=testinglibrary&logoColor=white)](https://github.com/sonyfrid/Examples-of-artifacts)
+[![QA Artifacts](https://img.shields.io/badge/QA_Артефакты-Тест_кейсы_и_баги-orange?style=for-the-badge\&logo=testinglibrary\&logoColor=white)](https://github.com/sonyfrid/Examples-of-artifacts)
 
-[![Test API](https://img.shields.io/badge/Test_API-Postman_коллекции-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/sonyfrid/testAPI)
+[![Test API](https://img.shields.io/badge/Test_API-Postman_коллекции-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)](https://github.com/sonyfrid/testAPI)
 
 Примеры тест-кейсов, чек-листов, баг-репортов и API-тестов.
 
 ---
 
-### 🚀 Developer Pet Projects (для души)
+### 🚀 Developer Pet Projects
 
 [![Custom Socks](https://img.shields.io/badge/Custom_Socks-JavaScript-blue?style=for-the-badge)](https://github.com/sonyfrid/CustomSocks)
 [![Music Stage](https://img.shields.io/badge/Music_Stage-JavaScript-purple?style=for-the-badge)](https://github.com/sonyfrid/MUSIC_STAGE)
+
+---
 
 ## 📞 Контакты
 
@@ -103,4 +100,3 @@
   <a href="https://www.linkedin.com/in/sonyfridmo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/sonyfrid"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
-
