@@ -48,7 +48,7 @@
 
 ## 📁 Мои проекты
 
-## <img src="[screenshots/buff_cat_green3.png](https://github.com/sonyfrid/job-aggregator-showcase/blob/main/screenshots/buff_cat_green3.png)" width="30"> IT Job Aggregator Bot
+## <img src="https://github.com/sonyfrid/job-aggregator-showcase/blob/main/screenshots/buff_cat_green3.png" width="30"> IT Job Aggregator Bot
 
 ### Бот-фильтр для поиска вакансий. Найдет работу или соискателей за вас!
 
