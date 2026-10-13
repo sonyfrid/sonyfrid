@@ -1,7 +1,7 @@
 ![Header](https://github.com/sonyfrid/sonyfrid/blob/main/assests/name.png)
 
 <h1 align="center">
-  Junior JavaScript Developer | QA Automation | Test Automation
+  Junior JavaScript Developer | QA Automation 3+ years | Test Automation
   <img src="https://github.com/sonyfrid/image/blob/main/pngegg.png?raw=true" alt="QA" width="40" height="40">
 </h1>
 
