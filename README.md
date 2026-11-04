@@ -1,7 +1,7 @@
 ![Header](https://github.com/sonyfrid/sonyfrid/blob/main/assests/name.png)
 
 <h1 align="center">
-  Junior AppSec | AI Security | QA background
+  Специалист по безопасности приложений | AI QA
   <img src="https://github.com/sonyfrid/image/blob/main/pngegg.png?raw=true" alt="QA" width="40" height="40">
 </h1>
 
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Обо мне
 
-* 🛡️ Перехожу из QA в **AppSec и безопасность ИИ**
+* 🛡️ **Безопасность приложений и AI QA**, 2 года в QA
 * 🤖 Проверяю **LLM**: prompt injection, утечка промпта, опасный вывод (OWASP Top 10 для LLM)
 * 🔎 Тестирую веб и API на уязвимости: **Burp Suite**, разборы лаб **PortSwigger**
 * 📝 Пишу отчёты: как воспроизвести, реальный риск, исправление, ретест
@@ -48,7 +48,7 @@
 
 ### 🛡️ Безопасность приложений и ИИ
 
-Находки в своём сервисе, проверка платёжной интеграции, разборы лаб PortSwigger. Только свои и учебные стенды.
+Находки в своём сервисе, проверка платёжной интеграции, 11 лаб PortSwigger: Access Control, IDOR, аутентификация. Только свои и учебные стенды.
 
 [![Security](https://img.shields.io/badge/AppSec_и_LLM-Находки_и_разборы-b3372f?style=for-the-badge)](https://sonyfrid.github.io/portfolio/security.html)
 
