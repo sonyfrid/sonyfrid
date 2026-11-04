@@ -20,6 +20,7 @@
 * 📝 Пишу отчёты: как воспроизвести, реальный риск, исправление, ретест
 * 🧪 **Playwright, TypeScript, Python, pytest, Postman**, CI/CD, тест-кейсы и баг-репорты
 * 💻 **JavaScript / TypeScript / Node.js / Python**
+* 🌐 Английский: B1 разговорный, B2-C1 на чтение
 * 🏀 В свободное время: психология, баскетбол и `code`
 
 ---
@@ -73,11 +74,11 @@
 
 Находки в своём сервисе, проверка платёжной интеграции, 11 лаб PortSwigger: Access Control, IDOR, аутентификация. Только свои и учебные стенды.
 
-[![Security](https://img.shields.io/badge/AppSec_и_LLM-Находки_и_разборы-b3372f?style=for-the-badge)](https://sonyfrid.github.io/portfolio/security.html)
+[![Security](https://img.shields.io/badge/AppSec_и_LLM-Находки_и_разборы-b3372f?style=for-the-badge)](https://sonyfrid.github.io/portfolio/qa-ai.html)
 
 ---
 
-## <img src="https://github.com/sonyfrid/job-aggregator-showcase/blob/main/screenshots/buff_cat_green3.png" width="30"> IT Job Aggregator Bot
+## <img src="https://github.com/sonyfrid/job-aggregator-showcase/blob/main/screenshots/buff_cat_green3.png" width="30"> HunterKitty Work: поиск работы в Telegram
 
 ### Бот-фильтр для поиска вакансий. Найдет работу или соискателей за вас!
 
@@ -85,7 +86,7 @@
 
 * 🧠 30+ источников вакансий
 * 🧠 Умная фильтрация по стеку
-* 🧠 SQLite + защита от дублей
+* 🧠 PostgreSQL + защита от дублей
 * 🧪 Автотесты (pytest)
 
 ---
