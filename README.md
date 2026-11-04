@@ -1,7 +1,7 @@
 ![Header](https://github.com/sonyfrid/sonyfrid/blob/main/assests/name.png)
 
 <h1 align="center">
-  Специалист по безопасности приложений | AI QA
+  QA Automation (Playwright) | AI QA | Security
   <img src="https://github.com/sonyfrid/image/blob/main/pngegg.png?raw=true" alt="QA" width="40" height="40">
 </h1>
 
@@ -13,11 +13,12 @@
 
 ## 👨‍💻 Обо мне
 
-* 🛡️ **Безопасность приложений и AI QA**, 2 года в QA
+* 🎭 **QA Automation на Playwright и AI QA**
+* 🛡️ Безопасность приложений и LLM
 * 🤖 Проверяю **LLM**: prompt injection, утечка промпта, опасный вывод (OWASP Top 10 для LLM)
 * 🔎 Тестирую веб и API на уязвимости: **Burp Suite**, разборы лаб **PortSwigger**
 * 📝 Пишу отчёты: как воспроизвести, реальный риск, исправление, ретест
-* 🎭 QA-база: **Playwright, Postman, pytest**, тест-кейсы и баг-репорты
+* 🧪 **Playwright, TypeScript, Postman, pytest**, CI/CD, тест-кейсы и баг-репорты
 * 💻 **JavaScript / TypeScript / Node.js**, Python на уровне чтения кода и простых тестов
 * 🏀 В свободное время: психология, баскетбол и `code`
 
@@ -46,11 +47,17 @@
 
 ## 📁 Мои проекты
 
-### 🛡️ Безопасность приложений и ИИ
+### 🏦 Fintech QA Automation (Playwright + TypeScript)
 
-Находки в своём сервисе, проверка платёжной интеграции, 11 лаб PortSwigger: Access Control, IDOR, аутентификация. Только свои и учебные стенды.
+Автоматизация тестирования банковского приложения Parabank.
 
-[![Security](https://img.shields.io/badge/AppSec_и_LLM-Находки_и_разборы-b3372f?style=for-the-badge)](https://sonyfrid.github.io/portfolio/security.html)
+[![Fintech QA](https://img.shields.io/badge/Fintech_QA_Automation-Посмотреть_проект-45ba4b?style=for-the-badge\&logo=playwright\&logoColor=white)](https://github.com/sonyfrid/fintech-qa-automation)
+
+* ✅ E2E тесты (UI)
+* ✅ API тесты
+* ✅ Негативные сценарии
+* ✅ CI/CD pipeline
+* ✅ Отчёты с видео и скриншотами
 
 ---
 
@@ -59,6 +66,14 @@
 40 тест-кейсов: выдумки, prompt injection, утечка промпта, персональные данные. Фильтр ответов на выходе.
 
 [![AI QA](https://img.shields.io/badge/AI_QA-Код_и_отчёт-0f7a4f?style=for-the-badge)](https://github.com/sonyfrid/ai-qa-support-bot)
+
+---
+
+### 🛡️ Безопасность приложений и ИИ
+
+Находки в своём сервисе, проверка платёжной интеграции, 11 лаб PortSwigger: Access Control, IDOR, аутентификация. Только свои и учебные стенды.
+
+[![Security](https://img.shields.io/badge/AppSec_и_LLM-Находки_и_разборы-b3372f?style=for-the-badge)](https://sonyfrid.github.io/portfolio/security.html)
 
 ---
 
@@ -72,20 +87,6 @@
 * 🧠 Умная фильтрация по стеку
 * 🧠 SQLite + защита от дублей
 * 🧪 Автотесты (pytest)
-
----
-
-### 🏦 Fintech QA Automation (Playwright + TypeScript)
-
-Автоматизация тестирования банковского приложения Parabank.
-
-[![Fintech QA](https://img.shields.io/badge/Fintech_QA_Automation-Посмотреть_проект-45ba4b?style=for-the-badge\&logo=playwright\&logoColor=white)](https://github.com/sonyfrid/fintech-qa-automation)
-
-* ✅ E2E тесты (UI)
-* ✅ API тесты
-* ✅ Негативные сценарии
-* ✅ CI/CD pipeline
-* ✅ Отчёты с видео и скриншотами
 
 ---
 
