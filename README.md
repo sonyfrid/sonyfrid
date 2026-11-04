@@ -1,26 +1,24 @@
 ![Header](https://github.com/sonyfrid/sonyfrid/blob/main/assests/name.png)
 
 <h1 align="center">
-  Junior JavaScript Developer | QA Automation 3+ years
+  Junior AppSec | AI Security | QA background
   <img src="https://github.com/sonyfrid/image/blob/main/pngegg.png?raw=true" alt="QA" width="40" height="40">
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=FF1FA0&center=true&vCenter=true&lines=%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D1%8E+%D0%BD%D0%B0+JavaScript;%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D1%8E+%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5;%D0%91%D0%B0%D0%B3%D0%B8+%D0%BD%D0%B5+%D0%B4%D0%BE%D0%B9%D0%B4%D1%83%D1%82+%D0%B4%D0%BE+%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=FF1FA0&center=true&vCenter=true&lines=%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9+%D0%B8+%D0%98%D0%98;%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D1%8E+LLM+%D0%BD%D0%B0+%D0%B8%D0%BD%D1%8A%D0%B5%D0%BA%D1%86%D0%B8%D0%B8+%D0%B8+%D1%83%D1%82%D0%B5%D1%87%D0%BA%D0%B8;%D0%9D%D0%B0%D1%85%D0%BE%D0%B6%D1%83%2C+%D0%BE%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D1%8E+%D1%80%D0%B8%D1%81%D0%BA%2C+%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D1%8E+%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5">
 </div>
 
 ---
 
 ## 👨‍💻 Обо мне
 
-* 💻 **Junior JavaScript Developer** с QA background
-* 🧪 **QA Automation Engineer** с опытом написания E2E и API тестов
-* 🚀 Разрабатываю на **JavaScript / TypeScript / Node.js**
-* 🧩 Создаю pet-проекты, API и автоматизацию тестирования
-* 🎭 Использую **Playwright** для E2E и API-тестирования
-* 📊 Умею настраивать **CI/CD** для автоматического запуска тестов
-* 📝 Пишу **тест-кейсы, чек-листы, баг-репорты**
-* 🗄️ Работаю с **PostgreSQL, REST API, Git**
+* 🛡️ Перехожу из QA в **AppSec и безопасность ИИ**
+* 🤖 Проверяю **LLM**: prompt injection, утечка промпта, опасный вывод (OWASP Top 10 для LLM)
+* 🔎 Тестирую веб и API на уязвимости: **Burp Suite**, разборы лаб **PortSwigger**
+* 📝 Пишу отчёты: как воспроизвести, реальный риск, исправление, ретест
+* 🎭 QA-база: **Playwright, Postman, pytest**, тест-кейсы и баг-репорты
+* 💻 **JavaScript / TypeScript / Node.js**, Python на уровне чтения кода и простых тестов
 * 🏀 В свободное время: психология, баскетбол и `code`
 
 ---
@@ -47,6 +45,22 @@
 ---
 
 ## 📁 Мои проекты
+
+### 🛡️ Безопасность приложений и ИИ
+
+Находки в своём сервисе, проверка платёжной интеграции, разборы лаб PortSwigger. Только свои и учебные стенды.
+
+[![Security](https://img.shields.io/badge/AppSec_и_LLM-Находки_и_разборы-b3372f?style=for-the-badge)](https://sonyfrid.github.io/portfolio/security.html)
+
+---
+
+### 🤖 AI QA: тестирование ИИ-ассистента
+
+40 тест-кейсов: выдумки, prompt injection, утечка промпта, персональные данные. Фильтр ответов на выходе.
+
+[![AI QA](https://img.shields.io/badge/AI_QA-Код_и_отчёт-0f7a4f?style=for-the-badge)](https://github.com/sonyfrid/ai-qa-support-bot)
+
+---
 
 ## <img src="https://github.com/sonyfrid/job-aggregator-showcase/blob/main/screenshots/buff_cat_green3.png" width="30"> IT Job Aggregator Bot
 
