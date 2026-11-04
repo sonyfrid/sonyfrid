@@ -1,7 +1,7 @@
 ![Header](https://github.com/sonyfrid/sonyfrid/blob/main/assests/name.png)
 
 <h1 align="center">
-  QA Automation (Playwright) | AI QA | Security
+  QA Automation (Playwright, Python) | AI QA | Security
   <img src="https://github.com/sonyfrid/image/blob/main/pngegg.png?raw=true" alt="QA" width="40" height="40">
 </h1>
 
@@ -18,8 +18,8 @@
 * 🤖 Проверяю **LLM**: prompt injection, утечка промпта, опасный вывод (OWASP Top 10 для LLM)
 * 🔎 Тестирую веб и API на уязвимости: **Burp Suite**, разборы лаб **PortSwigger**
 * 📝 Пишу отчёты: как воспроизвести, реальный риск, исправление, ретест
-* 🧪 **Playwright, TypeScript, Postman, pytest**, CI/CD, тест-кейсы и баг-репорты
-* 💻 **JavaScript / TypeScript / Node.js**, Python на уровне чтения кода и простых тестов
+* 🧪 **Playwright, TypeScript, Python, pytest, Postman**, CI/CD, тест-кейсы и баг-репорты
+* 💻 **JavaScript / TypeScript / Node.js / Python**
 * 🏀 В свободное время: психология, баскетбол и `code`
 
 ---
